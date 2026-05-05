@@ -2,3 +2,5 @@ data/*
 
 .venv/
 submission.csv
+model.joblib
+cnn_model.pt
