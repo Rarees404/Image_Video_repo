@@ -4,3 +4,4 @@ data/*
 submission.csv
 model.joblib
 cnn_model.pt
+cnn_models/
