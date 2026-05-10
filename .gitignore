@@ -1,5 +1,7 @@
 data/*
-
+sota_ensemble
+sota_ensemble_full
+submission_sota.csv
 .venv/
 submission.csv
 model.joblib
